@@ -1,7 +1,5 @@
 # Bootstrap-project
 
-# Bootstrap Learning Repository
-
 ## Introduction
 
 This repository is dedicated to learning and understanding the fundamentals of **Bootstrap**. Bootstrap is a powerful front-end framework that helps developers build responsive and mobile-first websites quickly and easily.
